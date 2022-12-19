@@ -1,3 +1,0 @@
-C:/MatMod C/DZ spiral/out/build/x64-debug/CMakeFiles/CMakeTarget.dir
-C:/MatMod C/DZ spiral/out/build/x64-debug/CMakeFiles/edit_cache.dir
-C:/MatMod C/DZ spiral/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
